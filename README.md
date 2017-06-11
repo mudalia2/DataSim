@@ -31,7 +31,7 @@ The image below shows the state the GUI is in while the second stage (i.e Graphi
 
 ### gui.py	
 
-This file contains code for the GUI side. I have used Tkinter to implement the GUI itself, while using matplotlib to chart the values. The uSB communication is handled using the serial library.
+This file contains code for the GUI side. I have used [Tkinter](https://wiki.python.org/moin/TkInter) to implement the GUI itself, while using [matplotlib](https://matplotlib.org/) to chart the values. The USB communication is handled using the [serial](https://pythonhosted.org/pyserial/) library.
 
 ### teensycode.cpp
 
